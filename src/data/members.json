@@ -1,0 +1,401 @@
+[
+  {
+    "id": 260,
+    "name": "Alya Amanda",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/alya_amanda.jpg?v=20231212"
+  },
+  {
+    "id": 249,
+    "name": "Amanda Sukma",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/amanda_sukma.jpg?v=20230530"
+  },
+  {
+    "id": 277,
+    "name": "Abigail Rachel",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/abigail_rachel.jpg"
+  },
+  {
+    "id": 278,
+    "name": "Adeline Wijaya",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/adeline_wijaya.jpg"
+  },
+  {
+    "id": 204,
+    "name": "Angelina Christy",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/angelina_christy.jpg?v=20230116"
+  },
+  {
+    "id": 262,
+    "name": "Anindya Ramadhani",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/anindya_ramadhani.jpg?v=20231212"
+  },
+  {
+    "id": 250,
+    "name": "Aurellia",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/aurellia.jpg?v=20230531"
+  },
+  {
+    "id": 280,
+    "name": "Aurhel Alana",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/aurhel_alana.jpg?v=20231212"
+  },
+  {
+    "id": 263,
+    "name": "Cathleen Nixie",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/cathleen_nixie.jpg?v=20231212"
+  },
+  {
+    "id": 264,
+    "name": "Celline Thefani",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/celline_thefani.jpg?v=20231212"
+  },
+  {
+    "id": 265,
+    "name": "Chelsea Davina",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/chelsea_davina.jpg?v=20231212"
+  },
+  {
+    "id": 221,
+    "name": "Cornelia Vanisa",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/cornelia_vanisa.jpg?v=20230116"
+  },
+  {
+    "id": 266,
+    "name": "Cynthia Yaputera",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/cynthia_yaputera.jpg?v=20231212"
+  },
+  {
+    "id": 267,
+    "name": "Dena Natalia",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/dena_natalia.jpg?v=20231212"
+  },
+  {
+    "id": 268,
+    "name": "Desy Natalia",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/desy_natalia.jpg?v=20231212"
+  },
+  {
+    "id": 213,
+    "name": "Febriola Sinambela",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/febriola_sinambela.jpg?v=20230116"
+  },
+  {
+    "id": 76,
+    "name": "Feni Fitriyanti",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/feni_fitriyanti.jpg?v=20230116"
+  },
+  {
+    "id": 223,
+    "name": "Fiony Alveria",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/fiony_alveria.jpg?v=20230116"
+  },
+  {
+    "id": 214,
+    "name": "Freya Jayawardana",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/freya_jayawardana.jpg?v=20230116"
+  },
+  {
+    "id": 282,
+    "name": "Fritzy Rosmerian",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/fritzy_rosmerian.jpg"
+  },
+  {
+    "id": 252,
+    "name": "Gabriela Abigail",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/gabriela_abigail.jpg?v=20230531"
+  },
+  {
+    "id": 269,
+    "name": "Gendis Mayrannisa",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/gendis_mayrannisa.jpg?v=20231212"
+  },
+  {
+    "id": 190,
+    "name": "Gita Sekar Andarini",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/gita_sekar_andarini.jpg?v=20230116"
+  },
+  {
+    "id": 270,
+    "name": "Grace Octaviani",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/grace_octaviani.jpg?v=20231212"
+  },
+  {
+    "id": 271,
+    "name": "Greesella Adhalia",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/greesella_adhalia.jpg?v=20231212"
+  },
+  {
+    "id": 210,
+    "name": "Helisma Putri",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/helisma_putri.jpg?v=20230116"
+  },
+  {
+    "id": 241,
+    "name": "Indah Cahya",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/indah_cahya.jpg?v=20230116"
+  },
+  {
+    "id": 253,
+    "name": "Indira Seruni",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/indira_seruni.jpg?v=20230531"
+  },
+  {
+    "id": 215,
+    "name": "Jessica Chandra",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/jessica_chandra.jpg?v=20230116"
+  },
+  {
+    "id": 254,
+    "name": "Jesslyn Elly",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/jesslyn_elly.jpg?v=20230531"
+  },
+  {
+    "id": 242,
+    "name": "Kathrina Irene",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/kathrina_irene.jpg?v=20230116"
+  },
+  {
+    "id": 228,
+    "name": "Lulu Salsabila",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/lulu_salsabila.jpg?v=20230116"
+  },
+  {
+    "id": 243,
+    "name": "Marsha Lenathea",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/marsha_lenathea.jpg?v=20230116"
+  },
+  {
+    "id": 273,
+    "name": "Michelle Alexandra",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/michelle_alexandra.jpg?v=20231212"
+  },
+  {
+    "id": 199,
+    "name": "Mutiara Azzahra",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/mutiara_azzahra.jpg?v=20230116"
+  },
+  {
+    "id": 255,
+    "name": "Raisha Syifa",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/raisha_syifa.jpg?v=20230530"
+  },
+  {
+    "id": 113,
+    "name": "Shania Gracia",
+    "generation": "Anggota JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/shania_gracia.jpg?v=20230116"
+  },
+  {
+    "id": 297,
+    "name": "Astrella Virgiananda",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/Astrella_Virgiananda.jpg"
+  },
+  {
+    "id": 298,
+    "name": "Aulia Riza",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/Aulia_Riza.jpg"
+  },
+  {
+    "id": 299,
+    "name": "Bong Aprilli",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/Bong_Aprilli.jpg"
+  },
+  {
+    "id": 281,
+    "name": "Catherina Vallencia",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/catherina_vallencia.jpg"
+  },
+  {
+    "id": 300,
+    "name": "Hagia Sopia",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/Hagia_Sopia.jpg"
+  },
+  {
+    "id": 283,
+    "name": "Hillary Abigail",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/hillary_abigail.jpg"
+  },
+  {
+    "id": 301,
+    "name": "Humaira Ramadhani",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/Humaira_Ramadhani.jpg"
+  },
+  {
+    "id": 302,
+    "name": "Jacqueline Immanuela",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/Jacqueline_Immanuela.jpg"
+  },
+  {
+    "id": 284,
+    "name": "Jazzlyn Trisha",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/jazzlyn_trisha.jpg"
+  },
+  {
+    "id": 303,
+    "name": "Jemima Evodie",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/Jemima_Evodie.jpg"
+  },
+  {
+    "id": 286,
+    "name": "Michelle Levia",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/michelle_levia.jpg"
+  },
+  {
+    "id": 304,
+    "name": "Mikaela Kusjanto",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/Mikaela_Kusjanto.jpg"
+  },
+  {
+    "id": 287,
+    "name": "Nayla Suji",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/nayla_suji.jpg"
+  },
+  {
+    "id": 288,
+    "name": "Nina Tutachia",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/nina_tutachia.jpg?v=20231212"
+  },
+  {
+    "id": 305,
+    "name": "Nur Intan",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/Nur_Intan.jpg"
+  },
+  {
+    "id": 289,
+    "name": "Oline Manuel",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/oline_manuel.jpg"
+  },
+  {
+    "id": 290,
+    "name": "Regina Wilian",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/regina_wilian.jpg"
+  },
+  {
+    "id": 291,
+    "name": "Ribka Budiman",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/ribka_budiman.jpg"
+  },
+  {
+    "id": 292,
+    "name": "Shabilqis Naila",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/shabilqis_naila.jpg"
+  },
+  {
+    "id": 293,
+    "name": "Victoria Kimberly",
+    "generation": "Trainee JKT48",
+    "price": 10000,
+    "image": "https://jkt48.com/profile/victoria_kimberly.jpg"
+  }
+]
