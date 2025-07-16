@@ -46,7 +46,7 @@ function App() {
       minimumFractionDigits: 0,
     }).format(member.price);
 
-    const message = `Nama Member: ${member.name}
+    const message = `Haiii, Nama Member: ${member.name}
     Harga: ${formattedPrice}
     Durasi: 30 hari
 

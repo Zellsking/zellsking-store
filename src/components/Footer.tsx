@@ -70,7 +70,7 @@ const Footer: React.FC<FooterProps> = ({ isDarkMode }) => {
               <div className="flex items-center">
                 <Phone className="w-4 h-4 text-blue-500 mr-3" />
                 <span className={`text-sm ${isDarkMode ? 'text-slate-400' : 'text-slate-600'}`}>
-                  +62 821 1395 2811
+                  +62 821-1395-2811
                 </span>
               </div>
 
