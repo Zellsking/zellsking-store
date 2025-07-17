@@ -46,7 +46,7 @@ function App() {
       minimumFractionDigits: 0,
     }).format(member.price);
 
-    const message = `Haiii, Nama Member: ${member.name}
+    const message = `Haiii Zellsking Store, Nama Member: ${member.name}
     Harga: ${formattedPrice}
     Durasi: 30 hari
 
